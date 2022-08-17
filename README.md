@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @batmikun
+- 👀 I’m interested in games, sports, and coding
+- 🌱 I’m currently learning odin, go, rust, python
+- 💞️ I’m looking to collaborate on game dev or crypto
+- 📫 How to reach me nstirnemann59@gmail.com
