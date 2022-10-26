@@ -20,3 +20,5 @@
   
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: nstirnemann59@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/nstirnemann/)
