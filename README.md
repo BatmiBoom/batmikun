@@ -6,19 +6,17 @@
 
 # Learning
 - Odin
+- Zig
 - Rust
 - Go
-- Haskell
-- Elm
-- Zig
+- Python
 
 # Interested
 - Game Dev
 - Embedded prog
 - Editors:
-  - [Helix](https://helix-editor.com/)
-  - Emacs
   - Neovim
+  - VsCode
   
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: nstirnemann59@gmail.com
