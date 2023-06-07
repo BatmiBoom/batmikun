@@ -10,6 +10,7 @@
 - Rust
 - Go
 - Python
+- Js - Ts - Wasm
 
 # Interested
 - Game Dev
