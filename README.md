@@ -5,12 +5,12 @@
 - 🔥 Currently Working on [BrainHi](https://brainhi.com/es/)
 
 # Learning
-- Odin
-- Zig
+- C
+- Elixir
 - Rust
 - Go
 - Python
-- Js - Ts - Wasm
+- Js - Ts
 
 # Interested
 - Game Dev
